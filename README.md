@@ -23,3 +23,5 @@ prod-1 duty free
 prod-2 duty free
 
 adnan and affan
+
+artifacts commit
